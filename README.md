@@ -51,3 +51,5 @@
 ###### 详细文章可以查看
 [链接](https://www.jianshu.com/p/ccf203067e5d)
 ​			
+###### 具体效果可以查看
+![static/comm/qr-code.jpg]
