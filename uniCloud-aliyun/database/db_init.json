@@ -1,0 +1,84 @@
+{
+    "coupon": {
+        "data": [
+            {"_id":{"$oid":"5fe62b3eee98e30001cb59cf"},"bannerPic":"/static/coupon/ele_banner.png","icon":"/static/coupon/ele.png","minapp":{"appid":"wxece3a9a4c82f58c9","path":"taoke/pages/shopping-guide/index?scene=AKjp9gu"},"name":"饿了么红包","sort":99,"tabId":1,"type":1,"url":"","coupontype":1},
+            {"_id":{"$oid":"60754e3ef9ac6b0001348b68"},"bannerPic":"/static/coupon/ele_banner.png","icon":"/static/coupon/ele.png","minapp":{"appid":"wxece3a9a4c82f58c9","path":"pages/sharePid/web/index?scene=https://s.click.ele.me/rWwKxdu"},"sort":99,"tabId":1,"type":1,"name":"饿了么餐饮","url":"","coupontype":1},
+            {"_id":{"$oid":"616e695cbe6f9700012595b7"},"bannerPic":"/static/coupon/meituan_banner.png","icon":"/static/coupon/meituan.png","minapp":{"appid":"wxde8ac0a21135c07d","path":"/index/pages/h5/h5?lch=cps:waimai:5:a144a9fa40a42c55af00214bb4bb3993971:19773dingdanxiamiao:33:70690&weburl=https%3A%2F%2Fdpurl.cn%2F9iqj9Gyz&f_userId=1&f_token=1"},"name":"美团红包","sort":100,"tabId":2,"type":1,"url":"","coupontype":1},
+            {"_id":{"$oid":"616e8d4b8b76c10001892bb9"},"bannerPic":"/static/coupon/ele_banner.png","icon":"/static/coupon/meituan.png","minapp":{"appid":"wx77af438b3505c00e","path":"subPackages/webview/index?lch=cps:mix:5:a144a9fa40a42c55af00214bb4bb3993971:19773dingdanxiamiao:22:70690&url=https%3A%2F%2Frunion.meituan.com%2Fyouxuan%2Furl%3Factid%3D22%26key%3Da144a9fa40a42c55af00214bb4bb3993971%26sid%3D19773dingdanxiamiao%26target%3Dhttps%253A%252F%252Fi.meituan.com%252Fawp%252Fhfe%252Fblock%252F0fa89e3742cb33896d37%252F116372%252Findex.html%253FtargetPath%253D%25252FsubPackages%25252Ftransfer%25252Findex%25253Fprotocol%25253Digrocery%2525253A%2525252F%2525252Fwww.grocery.com%2525252Fmain%2525253Futm_term%2525253D%2525257B%25252522mtlm%25252522%2525253A%25252522cps%2525253Amix%2525253A5%2525253Aa144a9fa40a42c55af00214bb4bb3993971%2525253A19773dingdanxiamiao%2525253A22%2525253A70690%25252522%2525257D%2526appkey%253Da144a9fa40a42c55af00214bb4bb3993971%253A19773dingdanxiamiao"},"name":"美团优选","sort":100,"tabId":2,"type":1,"url":"","coupontype":1},
+            {"_id":{"$oid":"61737d2c56e6160001d30c2c"},"bannerPic":"/static/coupon/meituan_banner.png","icon":"/static/coupon/meituan.png","minapp":{"appid":"wxde8ac0a21135c07d","path":"/index/pages/h5/h5?lch=cps:waimai:5:a144a9fa40a42c55af00214bb4bb3993971:19773dingdanxiawaimai:4:70690&weburl=https%3A%2F%2Fdpurl.cn%2FlTqXMGDz&f_userId=1&f_token=1"},"name":"美团买菜","sort":100,"tabId":2,"type":1,"url":"","coupontype":1},
+            {"_id":{"$oid":"6182935d14c4670001747659"},"bannerPic":"/static/coupon/meituan_banner.png","icon":"","minapp":{"appid":"wxa918198f16869201","path":"/pages/web/web?specialUrl=1&src=https%3A%2F%2Fmobile.yangkeduo.com%2Fduo_transfer_channel.html%3FresourceType%3D39997%26pid%3D8516041_57548366%26customParameters%3D11144jutuike123456%26authDuoId%3D8516041%26cpsSign%3DCE_211103_8516041_57548366_13238ecc50c51fa301515b9d1983d88c%26duoduo_type%3D2"},"name":"话费","sort":101,"tabId":3,"type":1,"url":"","coupontype":1},
+            {"_id":{"$oid":"618297d71096a10001dec385"},"bannerPic":"/static/coupon/vip_banner.png","icon":"/static/coupon/didi.jpg","minapp":{"appid":"wxaf35009675aa0b2a","path":"/pages/index/index?scene=wEX5d5d"},"name":"滴滴打车","sort":102,"tabId":4,"type":1,"url":"","coupontype":1},
+            {"_id":{"$oid":"618e6e63808fdd0001035a13"},"bannerPic":"/static/coupon/ele_banner.png","icon":"/static/coupon/ele.png","minapp":{"appid":"wxece3a9a4c82f58c9","path":"pages/sharePid/web/index?scene=https://s.click.ele.me/3WQIxdu"},"name":"饿了么红包","sort":99,"tabId":1,"type":1,"url":"","coupontype":1}
+        ],
+        "schema": {
+            "bsonType": "object",
+            "permission": {
+                ".create": false,
+                ".delete": false,
+                ".read": true,
+                ".update": false
+            }
+        }
+    },
+	"messages": {
+        "data": [
+            {
+                "_id": {
+                    "$oid": "5fe63c00646351000153d6a8"
+                },
+                "touser": "o8Pqo5Ac9_ntJ7cOdhYVcF5QaAVg",
+                "page": "pages/index/index",
+                "data": "外卖领券提醒, 快来领优惠券啦！",
+                "templateId": "hLV31-w38lq0yq8p6GEQUtBU7brtMrCFmaCCyxbU4xI",
+                "subscribeDate": "2020-12-26",
+                "sendDate": "2020-12-27",
+                "send": true
+            },
+            {
+                "_id": {
+                    "$oid": "5fe8a6c9fb0f85000120f7ee"
+                },
+                "touser": "o8Pqo5B3v9GtB3lCx0EujzSUs-v4",
+                "page": "pages/index/index",
+                "data": "外卖领券提醒, 快来领优惠券啦！",
+                "templateId": "hLV31-w38lq0yq8p6GEQUtBU7brtMrCFmaCCyxbU4xI",
+                "subscribeDate": "2020-12-28",
+                "sendDate": "2020-12-27",
+                "send": true
+            }
+        ]
+    },
+	"tab": {
+		"data": [
+			{
+				"icon": "/static/all.png",
+				"text": "全部",
+				"tabId": 0
+			},
+			{
+				"icon": "/static/ele.png",
+				"text": "饿了么",
+				"tabId": 1
+			},
+			{
+				"icon": "/static/meituan.png",
+				"text": "美团",
+				"tabId": 2
+			},
+			{
+				"icon": "/static/jd.png",
+				"text": "京东",
+				"tabId": 3
+			}
+		],
+		"schema": {
+			"bsonType": "object",
+			"permission": {
+				".read": true,
+				".create": false,
+				".update": false,
+				".delete": false
+			}
+		}
+	}
+}
